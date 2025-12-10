@@ -5,7 +5,7 @@
  - 📝计划对kaggle游乐园系列优秀解决方案代码进行解析
 ### 2023.09.07
  - ⚡修正部分已知文字错误和代码错误
- - 🤗添加[在线文档](https://ytzfhqs.github.io/AAAMLP-CN/)
+ - 🤗添加[在线阅读网站](https://ytzfhqs.github.io/AAAMLP-CN/) 并提供 [EPUB 版本](https://github.com/ytzfhqs/AAAMLP-CN/releases/download/v1.0.0/AAAMLP.epub)
 
 ## 简介
 Abhishek Thakur，很多 kaggler 对他都非常熟悉，2017 年，他在 Linkedin 发表了一篇名为**Approaching (Almost) Any Machine Learning Problem**的文章，介绍他建立的一个自动的机器学习框架，几乎可以解决任何机器学习问题，这篇文章曾火遍 Kaggle。
@@ -43,3 +43,4 @@ Abhishek 在 Kaggle 上的成就：
 若您在阅读过程中发现任何错误或不准确之处，非常欢迎通过提交 Issue 或 Pull Request 来协助我进行修正。
 
 如果您觉得这个项目对您有帮助，请不吝给予 Star 或者进行关注。
+
